@@ -1,4 +1,4 @@
-# BharagavSai-README.md
+
 👋 Hi, I'm Bharagav Sai
 
 💻 SoftWare Developer | Data Analyst | Power BI Learner
@@ -24,7 +24,7 @@
 ---
 
  🔗 Connect with me
-- GitHub: 
+- GitHub: https://github.com/Saibhargav2005
 - LinkedIn: : http://www.linkedin.com/in/bhargavsai88
 
   
